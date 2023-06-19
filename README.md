@@ -1,5 +1,5 @@
 ## About Me:
-I love to learn everything about Django. 🐍<br>🔙 Backend developer. 🔚
+I love to learn everything about Django.<br>Backend developer.
 
 
 ## Socials:
